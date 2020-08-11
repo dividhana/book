@@ -1,0 +1,25 @@
+
+@import "ember-bootstrap/bootstrap";
+.header-home-user {
+	padding: 4px;
+	text-align: center;
+	background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+	color: white;
+}
+
+/* Increase the font size of the heading */
+.header-home-user .home-user-h1 {
+	font-size: 40px;
+}
+.title {
+	text-align: center;
+}
+.form-control {
+
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+ 
